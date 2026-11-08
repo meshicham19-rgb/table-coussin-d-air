@@ -1,0 +1,12 @@
+Table à coussin d'air 3D — Pr Hicham MESBAH
+Application Android (WebView) qui affiche la simulation hors ligne.
+
+1. Décompressez ce dossier.
+2. Android Studio > File > Open > choisissez le dossier TableCoussinAir.
+3. Attendez la fin de la synchronisation Gradle (internet nécessaire la première fois).
+4. Branchez un téléphone (débogage USB activé) ou lancez un émulateur, puis cliquez sur Run ▶.
+5. Pour obtenir un fichier .apk : Build > Build App Bundle(s) / APK(s) > Build APK(s).
+   L'APK se trouve dans app/build/outputs/apk/debug/app-debug.apk.
+
+Pour modifier la simulation : remplacez app/src/main/assets/index.html.
+Android 7.0 minimum. La 3D demande un téléphone avec WebView (Chrome) à jour.

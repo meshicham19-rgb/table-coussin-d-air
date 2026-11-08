@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- feuille d'enregistrement -->
+    <path android:fillColor="#F4F2EA" android:pathData="M30,36h48v36h-48z"/>
+    <!-- points d'un mouvement rectiligne uniforme -->
+    <path android:fillColor="#14251F" android:pathData="M35,64m-1.6,0a1.6,1.6 0,1 1,3.2 0a1.6,1.6 0,1 1,-3.2 0"/>
+    <path android:fillColor="#14251F" android:pathData="M42,60m-1.6,0a1.6,1.6 0,1 1,3.2 0a1.6,1.6 0,1 1,-3.2 0"/>
+    <path android:fillColor="#14251F" android:pathData="M49,56m-1.6,0a1.6,1.6 0,1 1,3.2 0a1.6,1.6 0,1 1,-3.2 0"/>
+    <path android:fillColor="#14251F" android:pathData="M56,52m-1.6,0a1.6,1.6 0,1 1,3.2 0a1.6,1.6 0,1 1,-3.2 0"/>
+    <!-- autoporteur -->
+    <path android:fillColor="#2F4E73" android:pathData="M66,46m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"/>
+    <path android:fillColor="#C4321F" android:pathData="M66,46m-2.2,0a2.2,2.2 0,1 1,4.4 0a2.2,2.2 0,1 1,-4.4 0"/>
+</vector>
